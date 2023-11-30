@@ -1,6 +1,6 @@
 package ulug.musa;
 
-public class _004_While_DoWhile
+public class _003_While_DoWhile
 {
     public static void main(String[] args)
     {
